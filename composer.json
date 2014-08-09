@@ -1,6 +1,8 @@
 {
     "name": "one-art/itchanged",
     "description": "extension for yii1",
+    "type": "extension",
+    "keywords": ["yii", "extension", "state", "model"],
     "authors": [
         {
             "name": "oneart",

@@ -33,3 +33,13 @@ If you have model which extend CActiveRecord, you just change extend to ItChange
 Same with CForm and CModel
 
 For import files if you not use composer, just add include_once in your index.php before yii set up.
+
+### Install from composer
+
+```json
+{
+ "require": {
+ 	"one-art/itchanged": "*"
+ }
+}
+```
